@@ -1,0 +1,34 @@
+{
+    "name": "mzcore-ionic",
+    "description": "Ionic components for mzcore",
+    "main": "index.js",
+    "authors": [
+        "Agustin Mendez (@menduz) <agustin.mz.92@gmail.com>"
+    ],
+    "license": "MIT",
+    "keywords": [
+        "typescript",
+        "templates",
+        "mvc",
+        "redux",
+        "ionic"
+    ],
+    "devDependencies": {
+        "mzcore": "*"
+    },
+    "homepage": "https://github.com/menduz/mzcore-ionic",
+    "moduleType": [
+        "amd"
+    ],
+    "ignore": [
+        "**/.*",
+        "bower_components",
+        "test",
+        "tsconfig.json",
+        "index.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/menduz/mzcore-ionic.git"
+    }
+}
